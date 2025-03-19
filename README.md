@@ -1,8 +1,8 @@
-# demo 2
+# Hi, im JS :D
 
 info
 
-## header
+## I am a CS student
 
 1. step one
 2. step too
